@@ -5,11 +5,11 @@
 	id="WebApp_ID" version="2.5">
 	<display-name>portlet site</display-name>
 
-	<!--<context-param>
-		<description>Vaadin production mode</description>
+	<context-param>
+		<description>production mode</description>
 		<param-name>productionMode</param-name>
 		<param-value>true</param-value>
-	</context-param>-->
+	</context-param>
 
 	<!-- To load the Spring context -->
 	<listener>
