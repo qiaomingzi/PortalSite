@@ -36,7 +36,7 @@
 <div id="page">
     <!--顶部导航 start-->
     <div id="header">
-      <%--  <h1 class="logo">严格按照规范开发是标准化的第一步</h1>--%>
+        <h1 class="logo">严格按照规范开发是标准化的第一步</h1>
         <div class="navigation">
             <ul>
                 <li><a href="page-norm.html" target="_blank">页面规范</a></li>
