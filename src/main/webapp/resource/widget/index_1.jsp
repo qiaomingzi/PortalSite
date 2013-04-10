@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <%-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">--%>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>API Document</title>
     <style>
         #header{margin:0 10px;border-bottom: 1px solid #a4d3f2;}
@@ -89,7 +90,7 @@
         }
         //alert(url);
         return false;
-    }).eq(2).click();
+    }).eq(0).click();
 
     //$.ajaxComplete(attachPie);
 </script>
